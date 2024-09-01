@@ -21,5 +21,5 @@ pip install -r requirements.txt
 ## 4.Run the unit test
 
 ```bash
-python unit_test.p
+python unit_test.py
 ```
